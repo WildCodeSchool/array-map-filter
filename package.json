@@ -12,12 +12,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^25.0.0",
-    "jest-check-cross-reporter": "^0.1.0"
-  },
-  "jest": {
-    "reporters": [
-      "jest-check-cross-reporter"
-    ]
+    "jest": "^24.9.0"
   }
 }
