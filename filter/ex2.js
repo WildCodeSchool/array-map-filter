@@ -38,5 +38,6 @@ function keepStarks(names) {
   });
 };
 
+console.log(keepStarks(names));
 // Ne pas modifier l'export
 module.exports = keepStarks;
