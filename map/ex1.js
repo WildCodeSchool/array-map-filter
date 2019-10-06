@@ -21,7 +21,7 @@ En sortie: [
 
  */
 
-function getStringsLength(strings) {
+ function getStringsLength(strings) {
   return `${strings} contains ${strings.length} characters`;
 }
 
